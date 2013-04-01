@@ -1,4 +1,4 @@
 spotprices-api
 ==============
-
-Docs, Libraryes and examples of requests
+How to Connect your Application with SpotPrices Web Service.
+============================================================
